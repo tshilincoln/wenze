@@ -1,0 +1,35 @@
+MIT License
+
+Copyright (c) [Année] [Ton Nom]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+1. **notice**
+
+Instructions pour Remplir la Licence :
+[Année] : Remplace par l'année où tu publies le projet. Par exemple, 2024.
+[Ton Nom] : Remplace par ton nom ou ton nom d'utilisateur GitHub.
+Autres Licences Populaires :
+Apache License 2.0 : Offre plus de protections contre les poursuites en cas d'utilisation des logiciels sous licence.
+GPL (General Public License) : Exige que tout projet dérivé soit également distribué sous la même licence, ce qui peut être utile pour des projets open-source stricts.
+BSD 3-Clause License : Très similaire à la licence MIT mais avec quelques clauses supplémentaires concernant l'usage du nom du projet.
+Chaque licence a ses propres spécificités, donc choisis celle qui correspond le mieux à ton projet et à la manière dont tu souhaites partager ton code. Tu peux trouver plus d’informations et des générateurs de licences sur choosealicense.com.
+
+Si tu veux une autre licence ou si tu as besoin d’aide pour choisir celle qui correspond le mieux à ton projet, n’hésite pas à me le faire savoir !
