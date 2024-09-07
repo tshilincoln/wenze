@@ -44,33 +44,42 @@ Un projet de plateforme e-Commerce C2C (Consumer-to-Consumer) développé avec N
 
 1. **Cloner le dépôt :**
 
+    dans le bash tu lance cette commande
    ```bash 
-   dans le bash tu lance cette commande
    git clone https://github.com/tshilincoln/wenze.git
    cd wenze
 
 
 2. **installation des dependance backend**
     cd server **pour entré dans le dossier server**
+    ```bash 
     npm install
 
 3. **configuration de la variable d'environnement**
+
+    ```bash
     PORT=5000
     MONGODB_URI=mongodb://localhost:27017/tonNomDeBaseDeDonnées
     JWT_SECRET=ton_secret_pour_jwt
 
 
 4. **POUR DEMARRER LE SERVER BACKEND**
+
+    ```bash
     npm run dev
 
 5. **Installation des dépendances Frontend :**
+- *pour rentré à la racine du projet*
+- *pour entré dans le dossier client*
 
-    cd ../     **pour rentré à la racine du projet** 
-    cd client  **pour entré dans le dossier client** 
+    ```bash
+    cd ../      
+    cd client  
     npm install
 
 6. **Démarrer le serveur frontend :**
 
+    ```bash
     npm run dev
 
 7. **Accéder à l'application :**
@@ -81,7 +90,9 @@ Un projet de plateforme e-Commerce C2C (Consumer-to-Consumer) développé avec N
 🧪 **Tests**
 Pour exécuter les tests unitaires, utilise la commande suivante (à adapter si des tests sont ajoutés) :
 
+    ```bash
     npm run test
+
 
 📚 **Documentation de l'API**
     Les endpoints de l'API backend sont documentés dans API Documentation.
