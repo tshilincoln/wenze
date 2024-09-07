@@ -44,9 +44,10 @@ Un projet de plateforme e-Commerce C2C (Consumer-to-Consumer) développé avec N
 
 1. **Cloner le dépôt :**
 
-   ```bash
-   git clone https://github.com/ton-utilisateur/ton-projet-ecommerce.git
-   cd ton-projet-ecommerce
+   ```bash 
+   dans le bash tu lance cette commande
+   git clone https://github.com/tshilincoln/wenze.git
+   cd wenze
 
 
 2. **installation des dependance backend**
