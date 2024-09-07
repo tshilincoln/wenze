@@ -51,8 +51,10 @@ Un projet de plateforme e-Commerce C2C (Consumer-to-Consumer) développé avec N
 
 
 2. **installation des dependance backend**
-    cd server **pour entré dans le dossier server**
+- *Entré dans le dossier server*
+- *Installer les dependence*
     ```bash 
+    cd server
     npm install
 
 3. **configuration de la variable d'environnement**
